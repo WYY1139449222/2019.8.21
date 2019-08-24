@@ -1,0 +1,131 @@
+.appliances>a{
+    width:234px;
+    height:300px;
+    float: left;
+    margin-right: 14px;
+    margin-bottom: 14px;
+}
+
+.appliances .appliancesARight{
+    margin-right: 0;
+}
+.appliances .appliancesLastT{
+    height:140px;
+    position:relative;
+    background-color: #fff;
+}
+.appliances .appliancesLastOne{
+    height:140px;
+    position:relative;
+    background-color: #fff;
+}
+.appliances>h2{
+    height:58px;
+    line-height: 58px;
+    float:left;
+    width:1226px;
+    font-size: 22px;
+    font-weight: 200;
+    margin-top: 25px;
+}
+.appliances>h2>a{
+    height:26px;
+    line-height: 26px;
+    margin-top: 20px;
+    float:right;
+    color:#424242;
+    margin-left: 30px;
+    font-size: 16px;
+}
+.appliances>h2>a:hover{
+    color:#ff6700;
+    border-bottom: 2px solid #ff6700;
+}
+.appliancesALeft img{
+    width:234px;
+    height: 300px;
+}
+.appliances .appliancesIn {
+    width: 234px;
+    height: 300px;
+    float: left;
+    background-color: #fff;
+
+}
+.appliances .appliancesIn img {
+    width: 160px;
+    height: 160px;
+    margin-left: 15%;
+    margin-top: 15%;
+}
+.appliancesIn h3 {
+    font-size: 16px;
+    text-align: center;
+    color:#333;
+    font-weight: normal;
+}
+
+.appliancesIn .p1 {
+    font-size: 14px;
+    text-align: center;
+    color: lightslategray;
+    opacity: 0.6;
+    margin-top: 5px;
+}
+
+.appliancesIn .p2 {
+    font-size: 14px;
+    text-align: center;
+    color: red;
+    opacity: 0.6;
+    margin-top: 10px;
+}
+
+.appliancesIn del {
+    color: lightslategray;
+    opacity: 0.6;
+}
+.appliancesLastT img{
+    width:80px;
+    height:80px;
+    position: absolute;
+    left:130px;
+    top:30px;
+}
+.appliancesLastT h3{
+    font-size: 14px;
+    font-weight: normal;
+    margin-top:38px;
+    margin-left: 20px;
+    width:96px;
+    height:42px;
+    color:#333;
+}
+.appliancesLastT p{
+    color:#ff6700;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.appliancesLastOne img{
+    width:80px;
+    height:80px;
+    position: absolute;
+    left:130px;
+    top:30px;
+}
+.appliancesLastOne h3{
+    font-size: 18px;
+    font-weight: normal;
+    margin-top:50px;
+    margin-left: 30px;
+    width:94px;
+    
+    color:#333;
+}
+.appliancesLastOne p{
+    color:#757575;
+    font-size: 12px;
+    margin-left: 30px;
+    
+}

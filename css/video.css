@@ -1,0 +1,85 @@
+.video>a{
+    width:296px;
+    height:285px;
+    float: left;
+    margin-right: 14px;
+    background-color: #fff;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 14px;
+}
+.video img{
+    width:296px;
+    height:180px;
+}
+.video{
+    width:1226px;
+    height:253px;
+    position: relative;
+}
+.video .videoRight{
+    margin-right: 0;
+}
+.video>a>h3{
+    margin-top: 15px;
+    font-weight: normal;
+    color:#333;
+}
+.video>a>p{
+    margin-top:10px;
+    color:#b0b0b0;
+    font-size: 12px;
+}
+.video>h2{
+    height:58px;
+    line-height: 58px;
+    float:left;
+    width:1226px;
+    font-size: 22px;
+    font-weight: 200;
+    margin-top: 25px;
+}
+.video>h2>a{
+    font-size: 16px;
+    float:right;
+    color: #333;
+    float:right;
+}
+.video>h2>a:hover{
+    color:#ff6700;
+}
+.video>p>a{
+    font-size: 30px;
+    font-weight: bolder;
+    color:#fff;
+    background-color: #b0b0b0;
+    width:28px;
+    height:20px;
+    line-height: 20px;
+    vertical-align: bottom;
+    padding:3px 0;
+    box-sizing: border-box;
+}
+.video>p>a:hover{
+    background-color:#ff6700;
+}
+.videoIcon1{
+    position: absolute;
+    left:20px;
+    top:230px;
+}
+.videoIcon2{
+    position: absolute;
+    left:330px;
+    top:230px;
+}
+.videoIcon3{
+    position: absolute;
+    left:640px;
+    top:230px;
+}
+.videoIcon4{
+    position: absolute;
+    left:950px;
+    top:230px;
+}

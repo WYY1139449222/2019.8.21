@@ -1,0 +1,25 @@
+.toolbar>a{
+    width:84px;
+    height:92px;
+    border:1px solid #f5f5f5;
+    color:#757575;
+    font-size: 30px;
+    display:inline-block;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top:20px;
+    font-size: bold;
+    background-color: #fff;
+}
+.toolbar>a>p{
+    font-size: 14px;
+}
+.toolbar{
+    width:86px;
+   position:fixed;
+   right:0;
+   bottom:170px;
+}
+.toolbar>a:hover{
+    color:#ff6700;
+}

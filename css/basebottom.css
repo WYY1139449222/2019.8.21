@@ -1,0 +1,79 @@
+.basebottom{
+    background: #fafafa;
+}
+.basebottomIn{
+    width:1226px;
+    height:200px;
+    margin:0 auto;
+    padding-top:25px;
+}
+.basebottomInRight>.basebottomInRightFist>a{
+    font-size: 12PX;
+    height:18px;
+    line-height: 18px;
+    color:#757575;
+}
+.basebottomInRight>.basebottomInRightFist>a:hover{
+    color:#ff6700;
+}
+.basebottomInRight>.basebottomInRightFist>span{
+    font-size: 12PX;
+    height:18px;
+    line-height: 18px;
+    color:#757575;
+    margin:0px 3px;
+}
+.basebottomInRight p{
+    font-size: 12px;
+    color:#b0b0b0;
+    height:18px;
+    line-height: 18px;
+}
+.basebottomInRight>.basebottomInRightT>a{
+    color:#b0b0b0;
+}
+.basebottomInRight>.basebottomInRightT>a:hover{
+    color:#ff6700;
+}
+.basebottomInLogo{
+    float:left;
+}
+.basebottomInRight{
+    float:left;
+    margin-left: 10px;
+}
+.basebottomInRight>h6 img{
+    width:83px;
+    height:28px;
+    margin-right: 10px;
+    margin-top:10px;
+}
+.basebottomIn>a{
+    width:84px;
+    height:92px;
+    border:1px solid #f5f5f5;
+    color:#757575;
+    font-size: 30px;
+    display:inline-block;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top:20px;
+    font-size: bold;
+    background-color: #fff;
+    position: fixed;
+    right:0;
+    bottom:40px;
+}
+.basebottomIn>a>p{
+    font-size: 14px;
+}
+.basebottomIn>a:hover{
+    color:#ff6700;
+}
+.xiaomibottom{
+    width:1226px;
+    height:40px;
+    background-image: url(../images/xiaomi.png);
+    float:left;
+    margin-top:20px;
+}

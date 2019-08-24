@@ -1,0 +1,65 @@
+.swiper{
+    background-color: #fff;
+}
+.swiperIn{
+    width:1226px;
+    height:460px;
+    background-size: 1226px 460px;
+    margin:0 auto;
+    background-image: url(../images/big1.jpg);
+    position:relative;
+    
+}
+.swiperIn>ol{
+    float:left;
+    background:rgba(105,101,101,.6)
+}
+.swiperIn li{
+    height:42px;
+    line-height: 42px;
+    width:234px;
+}
+.swiperIn .first{
+    margin-top:20px;
+}
+.swiperIn .last{
+    margin-bottom: 20px;
+}
+.swiperIn a{
+    float:left;
+    height:42px;
+    width:234px;
+    text-indent: 2em;
+    color:#fff;
+    font-size: 14px;
+}
+.swiperIn li>a::after{
+    content:">";
+    float:right;
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.swiperIn a:hover{
+    background-color: #ff6700;
+}
+.swiperIn>.swiperInLeft,.swiperIn>.swiperInRight{
+    width:41px;
+    height:69px;
+    border-radius: 10%;
+    background-image: url(../images/icon-slides.png);
+}
+.swiperInLeft{
+    position:absolute;
+    left:234px;
+    top: 50%;
+    margin-top:-35px;
+    background-position-x: 66%;
+}
+.swiperIn>.swiperInRight{
+    position:absolute;
+    left:1185px;
+    top: 50%;
+    margin-top:-35px;
+    background-position-x: 100%;
+}

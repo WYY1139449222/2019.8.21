@@ -1,0 +1,72 @@
+.phone>h2{
+    height:58px;
+    line-height: 58px;
+    float:left;
+    width:1226px;
+    font-size: 22px;
+    font-weight: 200;
+    margin-top: 25px;
+}
+.phone>h2>a{
+    font-size: 16px;
+    float:right;
+    color: #333;
+}
+.phone>h2>a:hover{
+    color:#ff6700;
+}
+.phoneBodyRight>a{
+    float:left;
+}
+.phoneBodyLeft>img{
+    width:234px;
+    height:614px;
+}
+.phoneBodyRight {
+    width: 992px;
+    float: right;
+}
+.phoneBodyRight a {
+    width: 234px;
+    height: 300px;
+    float: left;
+    background-color: #fff;
+    margin-left: 14px;
+    margin-bottom: 14px;
+}
+.phoneBodyRight img {
+    width: 160px;
+    height: 160px;
+    margin-left: 15%;
+    margin-top: 15%;
+}
+.phoneBodyRight h3 {
+    font-size: 16px;
+    text-align: center;
+    color:#333;
+    font-weight: normal;
+}
+
+.phoneBodyRight .p1 {
+    font-size: 14px;
+    text-align: center;
+    color: lightslategray;
+    opacity: 0.6;
+    margin-top: 5px;
+}
+
+.phoneBodyRight .p2 {
+    font-size: 14px;
+    text-align: center;
+    color: red;
+    opacity: 0.6;
+    margin-top: 10px;
+}
+
+.phoneBodyRight del {
+    color: lightslategray;
+    opacity: 0.6;
+}
+.phoneBodyRight .phoneBodyRightBottom{
+    margin-bottom: 0;
+}

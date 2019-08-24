@@ -1,0 +1,143 @@
+.main{
+    background-color: #f5f5f5;
+    margin-top:25px;
+}
+.mainIn{
+    width:1226px;
+    margin:0 auto;
+}
+.iflashbuy>h2{
+    width:1226px;
+    height:58px;
+    float: left;
+    line-height: 58px;
+    font-size: 22px;
+    font-weight: 200;
+}
+.iflashbuy>h2>a{
+    float:right;
+}
+.iflashbuy>h2 .iflashbuyspanLeft{
+    width:36px;
+    height:24px;
+    display:inline-block;
+    background-color: #757575;
+    line-height: 24px;
+    text-align: center;
+    vertical-align: middle;
+   
+}
+.iflashbuy>h2>a>.iflashbuyspanRight{
+    width:36px;
+    height:24px;
+    line-height: 24px;
+    text-align: center;
+    display: inline-block;
+    background-color: #757575;
+    vertical-align: middle;
+}
+.iflashbuy>h2 .iflashbuyspanLeft:hover{
+    color:#ff6700;
+}
+.iflashbuy>h2>a>.iflashbuyspanRight:hover{
+    color:#ff6700;
+}
+.iflashbuy>ol>li{
+    width:234px;
+    height: 339px;
+    float:left;
+    margin-right: 14px;
+    
+}
+.iflashbuy .iflashbuylastLi{
+    margin-right: 0;
+}
+.iflashbuyOne{
+    background:papayawhip;
+    border-top: .3px solid red;
+}
+.iflashbuyOneTop{
+    color:#ef3a3b;
+    font-size: 21px;
+    margin-top:40px;
+    width:234px;
+    text-align: center;
+}
+.iflashbuyOne img{
+    width:34px;
+    height: 53px;
+    margin-left: 101px;
+    margin-top:35px;
+}
+.iflashbuyOneCenter{
+    width:234px;
+    text-align: center;
+    font-size: 14px;
+    color:rgba(0,0,0,.54);
+    margin-top: 40px;
+}
+.iflashbuyOneBottom{
+    text-align: center;
+    margin-top:30px;
+}
+.iflashbuyOneBottom>span{
+    width:46px;
+    height:46px;
+    line-height: 46px;
+    font-size: 24px;
+    color:#fff;
+    display:inline-block;
+    background-color: #585655;
+    
+}
+.iflashbuyOneBottom b{
+    font-size: 24px;
+    margin:0 3px;
+}
+.iflashbuy h3 {
+    font-size: 16px;
+    text-align: center;
+    color:#333;
+    font-weight: normal;
+    margin-top:10px;
+}
+
+.iflashbuy .p1 {
+    font-size: 14px;
+    text-align: center;
+    color: lightslategray;
+    opacity: 0.6;
+    margin-top: 10px;
+}
+
+.iflashbuy .p2 {
+    font-size: 14px;
+    text-align: center;
+    color: red;
+    opacity: 0.6;
+    margin-top: 15px;
+}
+.iflashbuy .iflashbuyTwoimg{
+    width:234px;
+    margin-top:1px;
+}
+.iflashbuytwo{
+    background-color: #fff;
+    border-top:.3px solid lightskyblue;
+}
+.iflashbuy del {
+    color: lightslategray;
+    opacity: 0.6;
+}
+.iflashbuyThree{
+    background-color: #fff;
+    border-top:.3px solid #ff6700;
+}
+.iflashbuyFore{
+    background-color: #fff;
+    border-top:.3px solid greenyellow;
+}
+.iflashbuylastLi{
+    background-color: #fff;
+    border-top:.3px solid blue;
+}

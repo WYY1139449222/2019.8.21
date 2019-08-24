@@ -1,0 +1,93 @@
+.header{
+    background-color: #fff;
+}
+.headerIn{
+    width:1226px;
+    margin:0 auto;
+    position:relative;
+}
+.headerInLogo{
+    width:55px;
+    height:55px;
+    margin-top:22px;
+    float:left;
+}
+.headerIncenter{
+    height:100px;
+    float:left;
+}
+.headerInInput{
+    height:100px;
+    float:right;
+}
+.headerInLogo>a{
+    display:inline-block;
+    height:55px;
+    width:55px;
+    background-image: url(../images/mi.png) ;
+}
+.headerInLogo>a:hover{
+    background-image: url(../images/mihover.png) ;
+}
+.headerIncenter{
+    margin-left: 120px;
+}
+.headerIncenter>a{
+    color:#333;
+    height:100px;
+    line-height: 100px;
+    margin-right: 20px;
+    font-size: 16px;
+    font-weight: 300;
+}
+.headerIncenter>a:hover{
+    color:#ff6700;
+}
+.headerIn>.headerInInput{
+    height:100px;
+    line-height: 100px;
+}
+.headerInInput>input{
+    width:245px;
+    height:50px;
+    border:1px solid #e0e0e0;
+    outline: none;
+}
+.headerInInput>input:hover{
+    border:1px solid #ff6700;
+}
+.headerInInput>a{
+    display:inline-block;
+    text-align: center;
+    width:51px;
+    height:51px;
+    background-color: #fff;
+    line-height: 52px;
+    color:#333;
+    font-weight: bolder;
+    border:1px solid #e0e0e0;
+}
+.headerInInput>a:hover{
+    background-color:#ff6700;
+    color:#fff;
+}
+.headerInInputIn>a{
+    display:inline-block;
+    background-color: #eee;
+    color:#757575;
+    font-size: 12px;
+}
+.headerInInputIn>a:hover{
+    background-color:#ff6700;
+    color:#fff;
+}
+.headerInInputIn>.headerInInputInLeft{
+    position:absolute;
+    left:1080px;
+    top:45px;
+}
+.headerInInputIn>.headerInInputInRight{
+    position:absolute;
+    left:1118px;
+    top:45px;
+}
